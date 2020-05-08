@@ -1,0 +1,43 @@
+body {
+ background-color: whitesmoke; 
+}
+
+h2 {
+    text-align: center;
+    color: #317fcc;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.option {
+    align-content: center;
+    width: 800px;
+    background-color: #317fcc;}
+
+#start {
+    background-color: #317fcc;
+}
+
+.jumbotron {
+    margin: 100px;
+  }
+
+ .container {
+    align-content: center;
+   }
+
+p {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.navbar-text {
+text-align: center;
+width: 100%;
+}
+
+hr {
+    margin-left: 50px;
+    margin-right: 50px;
+}
