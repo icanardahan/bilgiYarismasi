@@ -1,3 +1,3 @@
 # bilgiYarismasi
 
-![](outputs/screen-capture.gif
+![](outputs/screen-capture.gif)
